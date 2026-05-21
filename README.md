@@ -1,6 +1,3 @@
-# Predicting-ATP-matches-outcome
-A comparison of general and surface-specific machine learning models for ATP match prediction
+# Predicting ATP match outcomes: A Comparison of Logistic Regression and Random Forest Models
 
-Bachelor's thesis
-LUT University
-2026
+Bachelor's thesis, LUT University, 2026, https://lutpub.lut.fi/handle/10024/171902
